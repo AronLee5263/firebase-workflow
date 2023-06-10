@@ -23,3 +23,5 @@ export const useCollection = (c) => {
 
   return { documents };
 };
+
+// 여기까지가 realtime data 로  추가하는 방법이다
